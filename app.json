@@ -2,6 +2,11 @@
   "expo": {
     "name": "appdif",
     "slug": "appdif",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "1395372f-5898-4dec-a875-9c2a671ee4d4"
+      }
+    }
   }
 }
